@@ -1,0 +1,49 @@
+body {
+    font: 1rem/1.5 var(--bs-font-sans-serif);
+    background-color: beige;
+    opacity: 1.0;
+    background-size: cover;
+    text-align: center;
+    align-items: center;
+    border-radius: 25px;
+}
+
+nav{
+    border-radius: 25px;
+    margin: 10px;
+}
+
+.item-style{
+    align-items: center;
+    margin: 40px;
+    
+}
+
+.container{
+    width: 80%;
+    height: 100vh;
+    padding: 20px;
+    border: 1cm;
+    margin: 30px;
+    align-items: center;
+}
+
+.box{
+    width: 10em;
+    height: 5em;
+    font-size: 12pt;
+    border: 2mm;
+}
+
+.img{
+    border-radius: 25px;
+    position:relative;
+    top:50px;
+    width:300px;
+    align-items: center;
+    text-align: center;
+}
+
+html {
+    font-family:'Lucida Sans', sans-serif;
+}
