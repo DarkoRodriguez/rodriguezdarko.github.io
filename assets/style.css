@@ -6,6 +6,7 @@ body {
     text-align: center;
     align-items: center;
     border-radius: 25px;
+    margin: 20px;
 }
 
 nav{
@@ -15,7 +16,13 @@ nav{
 
 .item-style{
     align-items: center;
-    margin: 40px;
+    align-self: start;
+    text-align: center;
+    margin: 55px;
+    
+    padding: 20px;
+    
+    
     
 }
 
